@@ -1,0 +1,40 @@
+chaining_example.o: chaining_example.c \
+  f:/lang/gcc335/usr/include/stdlib.h \
+  f:/lang/gcc335/usr/include/sys/cdefs.h \
+  f:/lang/gcc335/usr/include/sys/gnu/cdefs.h \
+  f:/lang/gcc335/usr/include/features.h \
+  f:/lang/gcc335/usr/include/sys/_null.h \
+  f:/lang/gcc335/usr/include/sys/_types.h \
+  f:/lang/gcc335/usr/include/machine/_types.h \
+  f:/lang/gcc335/usr/include/386/_types.h \
+  f:/lang/gcc335/usr/include/malloc.h ../include/vorbis/codec.h \
+  f:/usr/include/ogg/ogg.h f:/usr/include/ogg/os_types.h \
+  ../include/vorbis/vorbisfile.h f:/lang/gcc335/usr/include/stdio.h
+
+f:/lang/gcc335/usr/include/stdlib.h:
+
+f:/lang/gcc335/usr/include/sys/cdefs.h:
+
+f:/lang/gcc335/usr/include/sys/gnu/cdefs.h:
+
+f:/lang/gcc335/usr/include/features.h:
+
+f:/lang/gcc335/usr/include/sys/_null.h:
+
+f:/lang/gcc335/usr/include/sys/_types.h:
+
+f:/lang/gcc335/usr/include/machine/_types.h:
+
+f:/lang/gcc335/usr/include/386/_types.h:
+
+f:/lang/gcc335/usr/include/malloc.h:
+
+../include/vorbis/codec.h:
+
+f:/usr/include/ogg/ogg.h:
+
+f:/usr/include/ogg/os_types.h:
+
+../include/vorbis/vorbisfile.h:
+
+f:/lang/gcc335/usr/include/stdio.h:
