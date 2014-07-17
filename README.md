@@ -3,3 +3,18 @@ LIB-MM-libvorbis
 
 Vorbis is a general purpose audio and music encoding format contemporary to MPEG-4's AAC and TwinVQ, the next generation beyond MPEG audio layer 3. Unlike the MPEG sponsored formats (and other proprietary formats such as RealAudio G2 and Windows' flavor of the month), the Vorbis CODEC specification belongs to the public domain. All the technical details are published and documented, and any software entity may make full use of the format without license fee, royalty or patent concerns.
 
+LICENSE
+===============
+* Xiph.org Foundation license
+
+COMPILE TOOLS
+===============
+* 
+
+AUTHORS
+===============
+* 
+
+LINKS
+===============
+* 
